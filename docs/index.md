@@ -1,7 +1,5 @@
 # Homepage
  
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
 ## Installation
 To install srsRAN, please follow steps as mentioned here: https://joshuamoorexyz.github.io/projects/installation/
 
