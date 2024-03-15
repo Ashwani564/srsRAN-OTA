@@ -4,6 +4,7 @@
 To install srsRAN, please follow steps as mentioned here: https://joshuamoorexyz.github.io/projects/installation/
 
 ## srsRAN Setup of Over The Air 
+
  After installation, please follow the following steps:
 
  1. Setting up hardware 
@@ -15,6 +16,7 @@ To install srsRAN, please follow steps as mentioned here: https://joshuamoorexyz
  4. Running the srsRAN Setup
 
  5. Using Iperf to Check Quality of Signal
+ 
 ### 1. Setting up hardware
     
 1. 2 pc’s working in low latency kernel (System A: CN & gNb & System B: UE)
